@@ -9,6 +9,11 @@ These metrics are found on those articles
 * [Neighborhood Based Collaborative Filtering — Part 4](https://medium.com/fnplus/neighbourhood-based-collaborative-filtering-4b7caedd2d11#:~:text=Neighborhood%20Based%20Collaborative%20Filtering%20leverages,done%20to%20items%20as%20well!) 
 *  [Collaborative-Filtering-Recommendation-Engine](https://github.com/nirmal-krishnan/Collaborative-Filtering-Recommendation-Engine)
 
+We use those metrics to calculare the similarity between each user to our active user, then using the weighted average we can
+calculate a score for every movie of the active user
+
+Check the General algorithm on this [article](https://github.com/nirmal-krishnan/Collaborative-Filtering-Recommendation-Engine/blob/master/Final_Writeup.pdf)
+
 ##### Pearson Correlation Coefficient
 ![](https://miro.medium.com/max/939/1*0ev2t7hU5HqldLa9Kt-DTA.jpeg)
 
@@ -23,8 +28,6 @@ These metrics are found on those articles
 
 ##### Cosine Similarity
 ![](https://miro.medium.com/max/851/1*Ed681tZoQVTDsoRqAxu_-Q.jpeg)
-
-##### Using basic distance function (K-NN)
 
 ### Matrix Facotization 
 * [Part 1 Video Link](https://www.youtube.com/watch?v=h-gEB2An8bo) 
