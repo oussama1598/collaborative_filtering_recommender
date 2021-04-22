@@ -37,9 +37,9 @@ Check the General algorithm on this [article](https://github.com/nirmal-krishnan
 
 
 * [ ] The neighbourhood Approach
-	* [ ] Cosine Similarity
-	* [ ] Mean-Squared Distance
-	* [ ] Spearman Rank Correlation Coefficient
-	* [ ] Pearson Correlation Coefficient
+	* [x] Cosine Similarity
+	* [x] Mean-Squared Distance
+	* [x] Spearman Rank Correlation Coefficient
+	* [x] Pearson Correlation Coefficient
 	
 [ ] Matrix Factorization
