@@ -1,7 +1,5 @@
-# Recommnder Models
-
-## Collaborative Filtering
-### The neighbourhood Approach 
+# Collaborative Filtering
+## The neighbourhood Approach 
 [Video Link](https://www.youtube.com/watch?v=pnX6a9L6Lng)
 
 #### General Algorithm
@@ -19,11 +17,11 @@ Check the General algorithm on this [article](https://github.com/nirmal-krishnan
 
 More details about them on [here](https://github.com/nirmal-krishnan/Collaborative-Filtering-Recommendation-Engine/blob/master/Final_Writeup.pdf)
 
-### Matrix Facotization 
+## Matrix Facotization 
 * [Part 1 Video Link](https://www.youtube.com/watch?v=h-gEB2An8bo) 
 * [Part 2 Video Link]()
 
-### Implementation
+## Implementation
 * [x] The neighbourhood Approach
 	* [x] Cosine Similarity
 	* [x] Mean-Squared Distance
